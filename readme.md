@@ -1,38 +1,12 @@
-# 👨‍🔬 Christian Roberto Ibáñez Nangüelú
+👨‍🔬 Dr. Christian Roberto Ibáñez Nangüelú
+Profesor Investigador  Universidad Politécnica de Chiapas
+Miembro del Sistema Nacional de Investigadores (SNI)
+Líder del grupo Dispositivos Biomédicos Inteligentes 🧠
+Este repositorio personal reúne proyectos, prototipos y recursos desarrollados en el marco de mi labor académica y científica. Está orientado a la innovación tecnológica en salud, el diseño de sistemas embebidos y la aplicación de inteligencia artificial en contextos biomédicos.
 
-Profesor investigador en la Universidad Politécnica de Chiapas. Líder del grupo **Dispositivos Biomédicos Inteligentes**, enfocado en el desarrollo de tecnologías aplicadas a la salud, sistemas embebidos e inteligencia artificial.
-
----
-
-## 🧠 Áreas de especialidad
-- Dispositivos biomédicos inteligentes
-- IA aplicada a salud y educación
-- Sistemas embebidos y microcontroladores
-- GitHub avanzado y control de versiones
-- Traducción técnica y cultural (ES/EN)
-
----
-
-## 📚 Proyectos destacados
-- `BioSensor-UP`: Plataforma embebida para monitoreo de signos vitales
-- `SmartRehab`: Sistema inteligente para rehabilitación física
-- `Convocatorias-UP`: Automatización de difusión académica
-
----
-
-## 🎯 Objetivos actuales
-- Refinar identidad visual institucional
-- Optimizar repositorios técnicos y docentes
-- Consolidar pagos bancarios y trámites digitales
-- Difundir la Maestría en Ingeniería Inteligente
-
----
-
-## 📬 Contacto
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cribnez)
-- 📧 christian.ibanez@upchiapas.edu.mx
-- 🏫 [Universidad Politécnica de Chiapas](https://www.upchiapas.edu.mx)
-
----
-
-> “La innovación en salud comienza con la inteligencia colaborativa.”
+🧠 Especialización Técnica
+- 🩺 Dispositivos Biomédicos
+- 🤖 Inteligencia Artificial Aplicada a la Salud
+- 💻 Sistemas Embebidos y Programación
+- 📈 Procesamiento de Señales Biomédicas
+- 🎓 Gestión Académica y Liderazgo
