@@ -17,7 +17,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
   Desarrollo de wearables y sistemas de asistencia para rehabilitación y monitoreo clínico.
 
 - 🤖 **Inteligencia Artificial Aplicada a la Salud**  
-  Modelado y aplicación de algoritmos para diagnóstico y terapia. Diplomado en IA (120 hrs).
+  Modelado y aplicación de algoritmos para diagnóstico y terapia..
 
 - 💻 **Sistemas Embebidos y Programación**  
   Experiencia en Python (Cert. Cisco), C/C++, MATLAB (Cert. MathWorks), Arduino y Raspberry Pi.
