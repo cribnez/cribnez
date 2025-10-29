@@ -20,7 +20,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
   Modelado y aplicación de algoritmos para diagnóstico y terapia..
 
 - 💻 **Sistemas Embebidos y Programación**  
-  Experiencia en Python (Cert. Cisco), C/C++, MATLAB (Cert. MathWorks), Arduino y Raspberry Pi.
+  Experiencia en Python, C/C++, MATLAB, Arduino y Raspberry Pi.
 
 - 📈 **Procesamiento de Señales Biomédicas**  
   Análisis de señales fisiológicas (ECG, postura) para toma de decisiones clínicas.
