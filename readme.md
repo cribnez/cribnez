@@ -33,6 +33,15 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Python Essentials 2](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%202-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/87d19768-2fe3-4a4f-b62c-ddbdd4c5d0e2)
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
+
+### 🧷 Certificaciones CONOCER
+![EC0301](https://img.shields.io/badge/EC0301-Diseño%20de%20cursos%20presenciales-red?style=for-the-badge)
+![EC0366](https://img.shields.io/badge/EC0366-Cursos%20en%20línea-red?style=for-the-badge)
+![EC1165](https://img.shields.io/badge/EC1165-Tutoría%20en%20educación%20superior-red?style=for-the-badge)
+![EC0217.01](https://img.shields.io/badge/EC0217.01-Impartición%20presencial%20grupal-red?style=for-the-badge)
+![EC0500](https://img.shields.io/badge/EC0500-Legalidad%20y%20anticorrupción-red?style=for-the-badge)
+![EC0217](https://img.shields.io/badge/EC0217-Impartición%20presencial%20grupal-red?style=for-the-badge)
+![EC0076](https://img.shields.io/badge/EC0076-Evaluación%20por%20competencias-red?style=for-the-badge)
 ---
 
 ### 🚀 Objetivo del Repositorio
