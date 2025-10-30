@@ -29,9 +29,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
   Coordinación de proyectos, rediseño curricular y procesos de acreditación (CIFRHS).
 
   ## 🧠 Reconocimientos académicos
-<a href="https://www.credly.com/earner/earned/badge/f63e5605-4672-4045-b605-4d4853dae52d" target="_blank">
-  <img src="https://images.credly.com/size/220x220/images/your_badge_image_id.png" alt="Cisco Learn-A-Thon 2025" width="120">
-</a>
+[![Learn-A-Thon 2025](https://img.shields.io/badge/Cisco%20Networking%20Academy-Learn--A--Thon%202025-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/f63e5605-4672-4045-b605-4d4853dae52d)
 
 Participación destacada en el evento internacional de formación tecnológica organizado por Cisco Networking Academy.
 ---
