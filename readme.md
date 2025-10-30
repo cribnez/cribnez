@@ -35,6 +35,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
 
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
 ---
 
 ### 🚀 Objetivo del Repositorio
