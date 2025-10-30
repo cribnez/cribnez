@@ -34,7 +34,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
 
-### 🧷 Certificaciones CONOCER
+## 🧷 Certificaciones CONOCER
 ![EC0301](https://img.shields.io/badge/C20EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
 ![EC0366](https://img.shields.io/badge/20EC0366-Cursos%20en%20línea-A30000?style=flat&logo=govdotmex&logoColor=white)
 ![EC1165](https://img.shields.io/badge/20EC1165-Tutoría%20en%20educación%20superior-A30000?style=flat&logo=govdotmex&logoColor=white)
