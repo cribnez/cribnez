@@ -28,6 +28,12 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 - 🎓 **Gestión Académica y Liderazgo**  
   Coordinación de proyectos, rediseño curricular y procesos de acreditación (CIFRHS).
 
+  ## 🧠 Reconocimientos académicos
+
+Participación destacada en iniciativas de formación y colaboración tecnológica:
+
+[![Learn-A-Thon 2025](https://img.shields.io/badge/Cisco%20Networking%20Academy-Learn--A--Thon%202025-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/f63e5605-4672-4045-b605-4d4853dae52d)
+
 ---
 
 ### 🚀 Objetivo del Repositorio
