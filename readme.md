@@ -35,13 +35,13 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
 
 ## 🧷 Certificaciones CONOCER
-![EC0301](https://img.shields.io/badge/C20EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC0366](https://img.shields.io/badge/20EC0366-Cursos%20en%20línea-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC1165](https://img.shields.io/badge/20EC1165-Tutoría%20en%20educación%20superior-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC0217.01](https://img.shields.io/badge/20EC0217.01-Impartición%20presencial%20grupal-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC0500](https://img.shields.io/badge/20EC0500-Legalidad%20y%20anticorrupción-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC0217](https://img.shields.io/badge/20EC0217-Impartición%20presencial%20grupal-A30000?style=flat&logo=govdotmex&logoColor=white)
-![EC0076](https://img.shields.io/badge/20EC0076-Evaluación%20por%20competencias-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0301](https://img.shields.io/badge/EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0366](https://img.shields.io/badge/EC0366-Cursos%20en%20línea-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC1165](https://img.shields.io/badge/EC1165-Tutoría%20en%20educación%20superior-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0217.01](https://img.shields.io/badge/EC0217.01-Impartición%20presencial%20grupal-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0500](https://img.shields.io/badge/EC0500-Legalidad%20y%20anticorrupción-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0217](https://img.shields.io/badge/EC0217-Impartición%20presencial%20grupal-A30000?style=flat&logo=govdotmex&logoColor=white)
+![EC0076](https://img.shields.io/badge/EC0076-Evaluación%20por%20competencias-A30000?style=flat&logo=govdotmex&logoColor=white)
 ---
 
 ### 🚀 Objetivo del Repositorio
