@@ -32,7 +32,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Learn-A-Thon 2025](https://img.shields.io/badge/Cisco%20Networking%20Academy-Learn--A--Thon%202025-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/f63e5605-4672-4045-b605-4d4853dae52d)
 [![Python Essentials 2](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%202-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/87d19768-2fe3-4a4f-b62c-ddbdd4c5d0e2)
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
-[![Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
+![Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-blue?style=flat&logo=cisco&logoColor=white)
 
 ## 🧷 Certificaciones CONOCER
 ![EC0301](https://img.shields.io/badge/EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
