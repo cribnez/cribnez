@@ -37,6 +37,7 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Introduction to IoT](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20IoT-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/f1a80bd6-8edf-493a-ab30-7d8e13dc5454)
 [![Operating Systems Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Operating%20Systems%20Basics-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/8d242b87-df44-4d27-872d-f6e5fdf31690)
 [![Computer Hardware Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Computer%20Hardware%20Basics-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/771a00fd-4279-4ee8-87a1-acbea8340d4f)
+[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/19d418c4-1639-4787-b18a-e90543628815)
 
 ## 🧷 Certificaciones CONOCER
 ![EC0301](https://img.shields.io/badge/EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
