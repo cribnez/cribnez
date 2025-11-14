@@ -30,12 +30,11 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 
 ## 🧠 Participación destacada en iniciativas de formación tecnológica
 [![Learn-A-Thon 2025](https://img.shields.io/badge/Cisco%20Networking%20Academy-Learn--A--Thon%202025-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/f63e5605-4672-4045-b605-4d4853dae52d)
-[![Python Essentials 2](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%202-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/87d19768-2fe3-4a4f-b62c-ddbdd4c5d0e2)
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
+[![Python Essentials 2](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%202-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/87d19768-2fe3-4a4f-b62c-ddbdd4c5d0e2)
 [![Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
-
 [![Introduction to Data Science](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Data%20Science-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/26c43fb8-0ee1-41de-82c8-b71ca1884271)
-[![Linux Essentials](https://img.shields.io/badge/Cisco%20Networking%20Academy-Linux%20Essentials-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/f1a80bd6-8edf-493a-ab30-7d8e13dc5454)
+[![Introduction to IoT](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20IoT-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/f1a80bd6-8edf-493a-ab30-7d8e13dc5454)
 
 
 ## 🧷 Certificaciones CONOCER
