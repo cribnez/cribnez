@@ -33,10 +33,10 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 [![Python Essentials 2](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%202-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/87d19768-2fe3-4a4f-b62c-ddbdd4c5d0e2)
 [![Python Essentials 1](https://img.shields.io/badge/Cisco%20Networking%20Academy-Python%20Essentials%201-blue?logo=cisco)](https://www.credly.com/earner/earned/badge/81bba79b-7547-484d-bacc-506fade7ba9a)
 [![Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/earner/earned/badge/d117b4c1-2211-4a2f-974e-5da7092a4108)
-[![Cybersecurity Essentials](https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Essentials-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/8d242b87-df44-4d27-872d-f6e5fdf31690)
-[![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/19d418c4-1639-4787-b18a-e90543628815)
-[![Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Academy-Networking%20Basics-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/26c43fb8-0ee1-41de-82c8-b71ca1884271)
-[![NDG Linux Unhatched](https://img.shields.io/badge/Cisco%20Networking%20Academy-NDG%20Linux%20Unhatched-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/f1a80bd6-8edf-493a-ab30-7d8e13dc5454)
+
+[![Introduction to Data Science](https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Data%20Science-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/26c43fb8-0ee1-41de-82c8-b71ca1884271)
+[![Linux Essentials](https://img.shields.io/badge/Cisco%20Networking%20Academy-Linux%20Essentials-blue?style=flat&logo=cisco&logoColor=blue)](https://www.credly.com/badges/f1a80bd6-8edf-493a-ab30-7d8e13dc5454)
+
 
 ## 🧷 Certificaciones CONOCER
 ![EC0301](https://img.shields.io/badge/EC0301-Diseño%20de%20cursos%20presenciales-A30000?style=flat&logo=govdotmex&logoColor=white)
