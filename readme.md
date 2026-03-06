@@ -55,6 +55,6 @@ Este espacio está dedicado a compartir soluciones tecnológicas con impacto soc
 
 > _“La tecnología al servicio de la salud es más que innovación: es compromiso con la vida.”_
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cribn)
+☕ [Apóyame en Buy Me a Coffee](https://buymeacoffee.com/cribn)
 
 ---
