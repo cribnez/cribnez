@@ -2,8 +2,10 @@
 
 **Profesor Investigador**  
 Universidad Politécnica de Chiapas  
+**Líder del grupo Dispositivos Biomédicos Inteligentes 🧠**  
 **Miembro del Sistema Nacional de Investigadores (SNI)**  
-**Líder del grupo Dispositivos Biomédicos Inteligentes 🧠**
+**Miembro del Sistema Estatal de Investigadores: Categoría VI – Investigador Científico Honorífico**
+
 
 ---
 
@@ -49,18 +51,19 @@ Este repositorio personal reúne proyectos, prototipos y recursos desarrollados 
 ![EC0076](https://img.shields.io/badge/EC0076-Evaluación%20por%20competencias-A30000?style=flat&logo=govdotmex&logoColor=white)
 ---
 
-### 🚀 Objetivo del Repositorio
+### 🚀 Objetivo del Repositorio 
+ 
+Aquí encontrarás iniciativas que buscan **transformar la salud mediante innovación tecnológica**, promover la **colaboración abierta** y dejar registro de los progresos en el desarrollo de **dispositivos biomédicos inteligentes** con impacto real en la sociedad.
 
-Este espacio está dedicado a compartir soluciones tecnológicas con impacto social, fomentar la colaboración académica y documentar avances en el desarrollo de dispositivos biomédicos inteligentes.
-
-> _“La tecnología al servicio de la salud es más que innovación: es compromiso con la vida.”_
+> “Cada avance tecnológico en salud es un paso hacia un futuro más humano.”
 
 ---
 
 ### ☕ Apóyame
 
-Mi misión es impulsar la innovación tecnológica en salud y compartir conocimiento abierto.  
-Si quieres contribuir a que estos proyectos sigan creciendo, puedes invitarme un café aquí:
+Creo en la innovación tecnológica como motor de cambio en la salud.  
+Si quieres ser parte de este camino, apóyame con un café aquí:  
+
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cribn)
 
