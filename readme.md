@@ -65,6 +65,5 @@ Creo en la innovación tecnológica como motor de cambio en la salud.
 Si quieres ser parte de este camino, apóyame con un café aquí:  
 
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/cribnez)
-
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/cribnez)
 ---
